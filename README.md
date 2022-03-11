@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am junior frontend developer. 
-- :office: At my full time job, I work with WordPress/WooCommerce (html/scss/js + acf pro) sites. 
+- :office: At my full time job, I work with WordPress/WooCommerce (html/scss/js/php + acf pro) sites. 
 - :palm_tree: After hours I learn React.
 - :zap: Fun fact: I changed my carrer path due to C-19 global pandemic. My company went buncrupt but I'm happy being a develper :sweat_smile:
 
