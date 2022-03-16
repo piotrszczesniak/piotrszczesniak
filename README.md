@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am junior frontend developer. 
+### Hi there 👋 I'm Piotr. I'm a junior frontend developer living in Krakow, Poland.
+ 
 - :office: At my full time job, I work with WordPress/WooCommerce (html/scss/js/php + acf pro) sites. 
 - :palm_tree: After hours I learn React.
 - :zap: Fun fact: I changed my carrer path due to C-19 global pandemic. My company went buncrupt but I'm happy being a develper :sweat_smile:
