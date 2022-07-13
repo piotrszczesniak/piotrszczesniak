@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Piotr. I'm a junior frontend developer living in Krakow, Poland.
+### Hi there 👋 I'm Piotr. I'm a frontend developer living in Krakow, Poland.
  
 - :office: At my full time job, I work with WordPress/WooCommerce (html/scss/js/php + acf pro) sites. 
-- :palm_tree: After hours I learn React.
+- :palm_tree: After hours I learn React with TypeScript.
 - :zap: Fun fact: I changed my carrer to programming due to C-19 global pandemic: my company went buncrupt but I'm happy how things turned out for me :sweat_smile:
+- 📫 Contact me via LinkedIn: https://www.linkedin.com/in/pioszczesniak/
 
 <!--
 **piotrszczesniak/piotrszczesniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
