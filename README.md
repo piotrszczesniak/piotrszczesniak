@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Piotr. I'm a frontend developer living in Krakow, Poland.
  
-- :office: At my full time job, I work with WordPress/WooCommerce (html/scss/js/php + acf pro) sites. 
+- :office: At my full time job, I work with JS+HTML+SASS + WordPress/WooCommerce. 
 - :palm_tree: After hours code in React. See my projects below 👇
 - 🤝 I'm open to Junior Frontend Developer with React positions
 - :zap: I started programming in 2019.
