@@ -2,7 +2,7 @@
  
 - :office: At my full time job, I work with JS+HTML+SASS + WordPress/WooCommerce. 
 - :palm_tree: After hours I code in React. See my projects below 👇
-- 🤝 I'm open to Junior Frontend Developer with React positions
+- 🤝 I'm open to Frontend Developer positions with React.
 - :zap: I started programming in 2019.
 - 📫 Contact me via LinkedIn: https://www.linkedin.com/in/pioszczesniak/
 
