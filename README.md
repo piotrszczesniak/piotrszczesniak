@@ -2,7 +2,7 @@
 
 #### I'm a frontend developer living in Krakow, Poland.
  
-- :office: At my full time job, I work with JS+HTML+SASS + WordPress/WooCommerce. 
+- :office: At my full time job, I work with JS+HTML+SASS + WordPress/WooCommerce. Recently started working with React too.
 - :palm_tree: After hours I develop my skills in React with TypeScript. See my projects below 👇
 - 🤝 I'm open to Frontend Developer positions with React.
 - :zap: I started programming in 2019.
