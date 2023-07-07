@@ -1,10 +1,10 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piotr!
 
-#### I'm a frontend developer living in Krakow, Poland.
+#### I'm a front-end developer living in Krakow, Poland.
  
-- :office: At my full time job, I work with JS+HTML+SASS + WordPress/WooCommerce. Recently started working with React too.
+- :office: At my full-time job, I work with JS(React.js/Next.js)+HTML+CSS + WordPress/WooCommerce.
 - :palm_tree: After hours I develop my skills in React with TypeScript. See my projects below 👇
-- 🤝 I'm open to Frontend Developer positions with React.
+- 🤝 Let's work together in your next React/Next project.
 - :zap: I started programming in 2019.
 - 📫 Contact me via LinkedIn: https://www.linkedin.com/in/pioszczesniak/
 
