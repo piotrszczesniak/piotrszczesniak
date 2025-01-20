@@ -1,6 +1,6 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piotr!
 
-#### I'm a JavaSctip full-stack developer living in Krakow, Poland.
+#### I'm a JavaSctip frontend developer living in Krakow, Poland.
  
 - :office: At my full-time job, I work with JavaScript (React.js/Next.js/Node.js) + WordPress/WooCommerce as a headless CMS.
 - :palm_tree: After hours, I develop my skills in React/Next with TypeScript and Node.js. I give some guidance to fellow junior developers.
